@@ -23,10 +23,11 @@ body{
 }
 
 .main{
-    height: 80vh;
+    height: 100vh;
     display: flex;
     flex-direction: column;
     justify-content: space-around;
+    padding-left: 7vh;
 }
 
 .computer {
@@ -43,6 +44,7 @@ body{
     font-family: 'Montserrat', sans-serif;
     color: white;
     line-height: 40px;
+    padding-top: 5vh;
 }
 
 .text{
@@ -72,6 +74,10 @@ body{
     font-size: 18px;
 }
 
+.info{
+    padding-bottom: 4vh;
+}
+
 .button{
     height: 50px;
     width: 250px;
@@ -82,6 +88,7 @@ body{
     font-size: 22px;
     color: #00252b;
     background-color: #27a8c7;
+    box-shadow: 7px 7px 5px rgb(24, 24, 27);
 }
 
 .right{
@@ -89,4 +96,9 @@ body{
     flex-direction: column;
     align-items: center;
     justify-content: space-around;
+    padding-bottom: 8vh;
+}
+
+.logo{
+    padding-bottom: 7vh;
 }
