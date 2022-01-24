@@ -101,3 +101,8 @@ body{
     justify-content: space-around;
     padding-bottom: 8vh;
 }
+
+.button:hover {
+    cursor: pointer;
+    background-color: rgb(16, 86, 116);
+}
