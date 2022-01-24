@@ -37,13 +37,13 @@ body{
 .fundo-branco{
     color: #036d88;
     background-color: white;
-    padding: 0px 7px;
+    padding: 0vh 2vh;
 }
 
 .title{
     font-family: 'Montserrat', sans-serif;
     color: white;
-    line-height: 40px;
+    line-height: 6.3vh;
     padding-top: 5vh;
 }
 
@@ -51,27 +51,27 @@ body{
     font-family: 'Montserrat', sans-serif;
     font-weight: 400;
     color: white;
-    line-height: 20px;
-    font-size: 13px;
+    line-height: 3vh;
+    font-size: 2.2vh;
 }
 
 .adv{
     font-weight: 700;
-    font-size: 20px;
+    font-size: 3.4vh;
 }
 
 .icon{
-    margin-right: 15px;
+    margin-right: 3vh;
 }
 
 .information{
     display: flex;
     align-items: center;
-    margin-top: 15px;
+    margin-top: 3vh;
     font-family: 'Montserrat', sans-serif;
     color: white;
     font-weight: 700;
-    font-size: 18px;
+    font-size: 3vh;
 }
 
 .info{
@@ -79,16 +79,16 @@ body{
 }
 
 .button{
-    height: 50px;
-    width: 250px;
+    height: 8vh;
+    width: 40vh;
     border: none;
-    border-radius: 50px;
+    border-radius: 50vh;
     font-family: 'Montserrat', sans-serif;
     font-weight: 700;
-    font-size: 22px;
+    font-size: 3.5vh;
     color: #00252b;
     background-color: #27a8c7;
-    box-shadow: 7px 7px 5px rgb(24, 24, 27);
+    box-shadow: 3vh 2vh 2vh rgb(24, 24, 27);
 }
 
 .right{
